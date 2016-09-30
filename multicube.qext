@@ -1,0 +1,14 @@
+{
+	"name": "multicube",
+	"description": "Multicube extension",
+	"type": "visualization",
+	"version": "0.0.1",
+	"author": "",
+	"homepage": "",
+	"keywords": "qlik-sense, visualization",
+	"license": "",
+	"repository": "",
+	"dependencies": {
+		"qlik-sense": ">=3.0.x"
+	}
+}
